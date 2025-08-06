@@ -1,0 +1,15 @@
+title: Zhang Jiming Lab
+description: 库落米
+baseurl: ""
+url: "https://zhang-lab.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+header_pages:
+  - index.md
+  - about.md
+  - research.md
+  - members.md
+  - publications.md
+  - contact.md
